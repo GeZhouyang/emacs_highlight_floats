@@ -1,5 +1,5 @@
 # emacs_highlight_floats
-A not-so-elegant-but-sort-of-works code for highlighting floating numbers in .f90 files in emacs.
+A not-so-elegant-but-sort-of-works solution for highlighting floating numbers in .f90 files in emacs.
 
 Installation:
 
@@ -8,4 +8,4 @@ Installation:
 
 Afterwards, when opening a f90 file, floating numbers (such as 0.2 or 2.) will be in a different color from integers.
 
-Acknowledgement: 
+Acknowledgement: The original author of both modes is Fanael Linithien <fanael4@gmail.com>, as claimed in the source codes. What I did was minor modifications only to suit a slightly different purpose.
